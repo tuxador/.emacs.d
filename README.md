@@ -5,3 +5,15 @@ I have it set up for Evil-mode, which uses Vim's keybinding interface. I also ha
 
 I encourage users to learn the setup thoroughly before simply installing this profile. Although I am happy to assist with any questions.
 
+### Kaddour's words
+I will try to (slightly) customize these settings, it basically fills all my needs:
+- Evil-mode
+- org-mode with evil-keybindings
+- My favorite languages: python, latex, and pandoc-markdown.
+
+What i would like to add:
+- magit with evil keybindings
+- ess fo R experiments.
+- web mode like emmet.
+
+Actually i'm using [spacemacs](https://www.spacemacs.org) for my (small) project.
